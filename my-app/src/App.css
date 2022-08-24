@@ -9,7 +9,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-header {
-    animation: breathing-color infinite 15s linear;
+    animation: breathing-color infinite 15s;
   }
 }
 
